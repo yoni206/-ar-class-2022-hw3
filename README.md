@@ -16,7 +16,7 @@ Conflicts: <package-name1>,...
 
 The last line of the file has the form:
 ```
-Install: <package-name>
+Install: <package-name1>,...
 ```
 
 The meaning of such a file was explained in class.
