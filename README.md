@@ -21,11 +21,11 @@ Install: <package-name1>,...
 
 The meaning of such a file was explained in class.
 
-This repository contains some example `dep` files. 
 The program you are implementing should either output `There is no installation plan` or
 `There is an installation plan`.
 In the latter case, starting from the second line of the output, the installation plan should be printed, each package in its own line.
 
+This repository contains some example `dep` files. 
 Below is the expected results for these files:
 ```
 $ python3 install_bool.py benchmarks/ex1.dep
