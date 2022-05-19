@@ -50,3 +50,4 @@ Your implementation will be tested on other files as well.
 
 Important note: it is OK if your implementation suggests a different installation plan.
 
+The file `pysmt_ex.py` shows basic usage of `pysmt`.
