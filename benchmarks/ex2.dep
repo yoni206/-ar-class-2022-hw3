@@ -1,5 +1,5 @@
 Package: apache
-Depends: java,apt|c
+Depends: java,apt|c,python
 Conflicts: c
 
 Package: java
@@ -8,4 +8,4 @@ Depends: apt
 Package: apt
 Depends: c
 
-Install: apache
+Install: apache,python
