@@ -19,6 +19,17 @@ The last line of the file has the form:
 Install: <package-name1>,...
 ```
 
+Spaces between package names are allowed and 
+should be ignored.
+For example, the following snippets should be treated the same:
+```
+Depends:a,b,c
+```
+
+```
+Depends : a,   b, c   
+```
+
 The meaning of such a file was explained in class.
 
 The program you are implementing should either output `There is no installation plan` or
